@@ -1,4 +1,4 @@
-### Hi there 👋
+![](lovingopensource@logicalprores.png)
 
 <!--
 **logicalprores/logicalprores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
